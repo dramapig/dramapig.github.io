@@ -9,24 +9,6 @@ url: "http://vno.onevcat.com"
 
 permalink: /:year/:month/:title/
 
-# Collections
- collections:
-   projects:
-     output: true
-     permalink: /:collection/:path/
-
-defaults:
-# _projects
-   - scope:
-       path: ""
-       type: projects
-     values:
-       layout: single
-       author_profile: true
-       read_time: true
-       comments: # true
-       share: true
-       related: true
 
 # Format
 highlighter: rouge
