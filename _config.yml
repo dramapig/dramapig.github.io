@@ -39,11 +39,11 @@ paginate_path: "page/:num/"
     
 # Social
 social:
-    weibo: onevcat
+    #weibo: onevcat
     github: dramapig
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    #twitter: onevcat
+    #gplus: 107108267983477358170
+    #mail: onev@onevcat.com
 
 # Google Analytics
 ga:
