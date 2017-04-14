@@ -1,9 +1,7 @@
 # Basic
 title: Poetry and Freak
 subtitle: A pig is flying.
-<<<<<<< HEAD
-welcome_message: <a href="https://github.com/dramapig” target="_blank">my github</a>
->>>>>>> origin/master
+welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: Be patient. Time is Love.
 creator: <a href="http://onev.cat">@onevcat</a>
 
@@ -33,17 +31,17 @@ paginate: 10
 paginate_path: "page/:num/"
 
 # Comment
-#comment:
- #   disqus: vno-jekyll
+comment:
+    disqus: vno-jekyll
     # duoshuo: 
     
 # Social
 social:
-    #weibo: onevcat
-    github: dramapig
-    #twitter: onevcat
-    #gplus: 107108267983477358170
-    #mail: onev@onevcat.com
+    weibo: onevcat
+    github: onevcat
+    twitter: onevcat
+    gplus: 107108267983477358170
+    mail: onev@onevcat.com
 
 # Google Analytics
 ga:
