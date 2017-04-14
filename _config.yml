@@ -1,7 +1,11 @@
 # Basic
 title: Poetry and Freak
 subtitle: A pig is flying.
+<<<<<<< HEAD
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+=======
+welcome_message: <a href="http://www.baidu.com” target="_blank">my github</a>
+>>>>>>> origin/master
 description: Be patient. Time is Love.
 creator: <a href="http://onev.cat">@onevcat</a>
 
